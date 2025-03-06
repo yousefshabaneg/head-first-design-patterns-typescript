@@ -3,7 +3,8 @@
  "version": "1.0.0",
  "main": "index.js",
  "scripts": {
-  "strategy": "ts-node strategy/main.ts"
+  "strategy": "ts-node strategy/main.ts",
+  "observer": "ts-node observer/main.ts"
  },
  "author": "",
  "license": "ISC",
