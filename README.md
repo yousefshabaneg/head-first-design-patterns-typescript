@@ -8,7 +8,7 @@ This repository contains example implementations of design patterns from the boo
 | ------------ | ------------------------------------------------------------------------------------- | ---------------------------------------- |
 | Strategy     | Defines a family of algorithms, encapsulates each one, and makes them interchangeable | [Strategy Pattern](./strategy/README.md) |
 | Observer     | Defines a one-to-many dependency between objects                                      | [Observer Pattern](./observer/README.md) |
-
+| Decorator | Attaches additional responsibilities to an object dynamically | [Decorator Pattern](./decorator/README.md) |
 ## Getting Started
 
 1. Clone the repository
