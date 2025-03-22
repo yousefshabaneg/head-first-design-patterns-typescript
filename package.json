@@ -4,7 +4,8 @@
  "main": "index.js",
  "scripts": {
   "strategy": "ts-node strategy/main.ts",
-  "observer": "ts-node observer/main.ts"
+  "observer": "ts-node observer/main.ts",
+  "decorator": "ts-node decorator/main.ts"
  },
  "author": "",
  "license": "ISC",
